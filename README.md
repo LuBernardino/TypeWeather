@@ -2,7 +2,7 @@
 
 This is a bonus project for Rocketseat's explorer certificates, a weather forecasting application that has been converted from JavaScript (JS) to TypeScript (TS). The main goal of this conversion is to enhance the code's robustness, scalability, and maintainability, taking advantage of the benefits offered by TypeScript.
 
-![preview](.github/preview.png)
+![preview](src/assets/figma/Desktop_Busca.png)
 
 </br>
 
@@ -22,7 +22,7 @@ TypeWeather is a weather forecasting application that provides essential informa
 
 ## 🚀 Deploy
 
-You can access the project through [this link](https://typeweather-palomarodrigues.vercel.app/)
+You can access the project through [this link](link aqui)
 
 </br>
 
